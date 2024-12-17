@@ -18,9 +18,9 @@ HandyControl is an innovative Python application that allows you to control your
 ## 🛠️ Prerequisites
 
 ### Hardware
-- Webcam
+ Webcam
 - Computer running Windows, macOS, or Linux
-
+-![mediapipe](https://github.com/user-attachments/assets/902fd392-dd76-4342-8449-a9ae8f5581e1)
 ### Software
 - Python 3.7+
 - OpenCV
@@ -99,6 +99,9 @@ python hand_control.py
 ## 🙌 Acknowledgements
 
 - [MediaPipe](https://learnopencv.com/introduction-to-mediapipe/)
+ ![hand_landmarks_docs](https://github.com/user-attachments/assets/c15ed161-6be0-4540-a5cb-03992702fc5e)
+ ![htm](https://github.com/user-attachments/assets/9afd5d2f-8e8a-4520-9475-3eee171fc4a1)
+ 
 - [OpenCV](https://opencv.org/)
 - [PyCaw](https://pycaw.readthedocs.io/en/latest/)
 
