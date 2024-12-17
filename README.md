@@ -1,5 +1,3 @@
-# Computer Vision
-
 # Computer-vision
 Volume-Brightness control
 # 🖐️ HandyControl: Gesture-Based Volume and Brightness Control
