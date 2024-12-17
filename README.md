@@ -1,3 +1,4 @@
+![output](https://github.com/user-attachments/assets/0bcaac0b-78c8-4925-9d3e-cdcf3c7752f0)
 # Computer-vision
 Volume-Brightness control
 # 🖐️ HandyControl: Gesture-Based Volume and Brightness Control
